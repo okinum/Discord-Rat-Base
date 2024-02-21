@@ -1,5 +1,5 @@
 # Discord Rat Base
-Discord Rat Base for making discord rats in c#.
+A simple base for making discord rats in c#.
 
 # Disclaimer
 * this tool is for educational use only, the author will not be held responsible for any misuse of this tool.
